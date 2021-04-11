@@ -12,5 +12,6 @@ setup(name='pulse-sms-api',
       install_requires=[
             'python-dotenv>=0.17.0',
             'loguru>=0.5.3',
-            'requests>=2.25.1'
+            'requests>=2.25.1',
+            'pycrypto>=2.6.1'
       ])
