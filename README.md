@@ -1,7 +1,6 @@
-# py-pulse-sms-api
+# py-pulse-sms-api [![Python package](https://github.com/perara-libs/py-pulse-sms-api/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/perara-libs/py-pulse-sms-api/actions/workflows/python-package.yml)
 A unofficial API for pulse-sms in python.
 
-[![Python package](https://github.com/perara-libs/py-pulse-sms-api/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/perara-libs/py-pulse-sms-api/actions/workflows/python-package.yml)
 
 ## Install
 `pip install git+https://github.com/perara-libs/py-pulse-sms-api.git`
