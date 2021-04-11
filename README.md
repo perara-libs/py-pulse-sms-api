@@ -4,6 +4,7 @@ A unofficial API for pulse-sms in python.
 ## Install
 `pip install git+https://github.com/perara-libs/py-pulse-sms-api.git`
 
+
 ## Usage
 ```python
 from pulsesms import PulseSMSAPI
